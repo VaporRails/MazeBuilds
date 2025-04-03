@@ -12,5 +12,6 @@ Hammer animation is now smoother and faster
 Fixed players not being allowed to pause after restarting from the pause menu
 Fixed some menu buttons not working
 Adjusted the wall spike going too far
+Optimized sprint/slide timing
 Known issues
 Hammers are not pushing the player as intended
